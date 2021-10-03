@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @nithya-67
+- 👀 I’m interested in Data Science
+- 💞️ I’m looking to collaborate on projects that im capable of
+- 📫 How to reach me nithyasriravikumar@gmail.com
